@@ -32,11 +32,13 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(20F, 48F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(821, 482);
+            ClientSize = new Size(1642, 925);
+            Font = new Font("Segoe UI", 18F);
+            Margin = new Padding(6, 6, 6, 6);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Postman Clone by Stacula";
             ResumeLayout(false);
         }
 
